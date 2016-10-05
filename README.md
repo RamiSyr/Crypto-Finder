@@ -1,4 +1,10 @@
 # Crypto Finder
+
+> Updates
+** 5/10/2016 **
+- Adding *.909a extension
+
+
 Script with interface, searches for hundreds of files that can be created by different kind of ransomware. actually, searches for 147 different ransomwares and 241 ransomware notes and extensions.
 
 The script runs as Admin by itself to insure that it will have access to search everywhere.
