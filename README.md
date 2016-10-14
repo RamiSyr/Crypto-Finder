@@ -1,6 +1,8 @@
 # Crypto Finder v2.4
 
->> Updates
+> Updates
+----------
+
 >14/10/2016
 >- Added "Check For Update" in Help Menu
 >
