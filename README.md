@@ -3,6 +3,7 @@
 ## Updates
 >26/10/2016
 > - Added new ransomwares' extensions
+>
 >18/10/2016
 >- Added "Check For Update" in Help Menu
 >
