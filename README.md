@@ -1,24 +1,22 @@
 # Crypto Finder v2.4
 
 ## Updates
+> 31/10/2016 - Added new ransomwares' extensions and notes
 >
->26/10/2016
-> - Added new ransomwares' extensions
+>26/10/2016 - Added new ransomwares' extensions
 >
->18/10/2016
->- Added "Check For Update" in Help Menu
+>18/10/2016 - Added "Check For Update" in Help Menu
 >
->12/10/216 >- Added new ransomwares' extensions
+>12/10/216  - Added new ransomwares' extensions
 >
->5/10/2016 >- Added new ransomwares' extensions
+>5/10/2016  - Added new ransomwares' extensions
 >
 >12/09/2016
 >-	Fix bug when the path to the script folder contains spaces. It wasn’t create the CryptoFinderSearchResult.txt
 >-	Added more than 75 kind of ransomwares extensions and notes, and over 150+ searches.
 >-	Added "Ransomware list" in a Menu:
 >
->01/09/2016
->- Released v1.0
+>01/09/2016  - Released v1.0
 
 Script with interface, searches for hundreds of files that can be created by different kind of ransomware. actually, searches for 150+ different ransomwares and 250+ ransomware notes and extensions.
 
