@@ -1,17 +1,16 @@
 # Crypto Finder v2.4
 
 ## Updates
+>
 >26/10/2016
 > - Added new ransomwares' extensions
 >
 >18/10/2016
 >- Added "Check For Update" in Help Menu
 >
->12/10/216
->- Added new ransomwares' extensions
+>12/10/216 >- Added new ransomwares' extensions
 >
->5/10/2016
->- Added new ransomwares' extensions
+>5/10/2016 >- Added new ransomwares' extensions
 >
 >12/09/2016
 >-	Fix bug when the path to the script folder contains spaces. It wasn’t create the CryptoFinderSearchResult.txt
