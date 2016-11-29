@@ -1,4 +1,4 @@
-# Crypto Finder v2.4
+# Crypto Finder v2.6
 
 ## Updates
 > 31/10/2016 - Added new ransomwares' extensions and notes
