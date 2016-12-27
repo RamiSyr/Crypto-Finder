@@ -1,4 +1,4 @@
-# Crypto Finder v2.6
+# Crypto Finder v2.7
 
 ## Updates
 > 27/12/2016 - Fixed bug when you right click on an empty area in the Result ListView 
