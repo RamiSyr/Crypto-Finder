@@ -1,4 +1,4 @@
-# Crypto Finder v2.7
+# Crypto Finder v2.8
 
 ## Updates
 > 2/2/2017 
