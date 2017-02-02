@@ -1,6 +1,8 @@
 # Crypto Finder v2.7
 
 ## Updates
+> 2/2/2017 - Added new ransomwares' extensions and notes.
+>
 > 27/12/2016 - Fixed bug when you right click on an empty area in the Result ListView 
 >
 > 31/10/2016 - Added new ransomwares' extensions and notes
