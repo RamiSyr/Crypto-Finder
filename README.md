@@ -3,7 +3,7 @@
 ## Updates
 > 2/2/2017 
 >- Added new ransomwares' extensions and notes.
->- Currect the updating process to replace the old version with the new version name.
+>- Currect the updating process to replace the old version of the program with the new version name.
 >
 > 27/12/2016 - Fixed bug when you right click on an empty area in the Result ListView 
 >
