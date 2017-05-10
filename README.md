@@ -1,6 +1,8 @@
 # Crypto Finder v3.8
 
 ## Updates
+> 10/5/2017 - Added new ransomwares' extensions and notes
+>
 > 22/3/2017
 > - Added Tool menu and moved "Check For Update" to it.
 > - Added in Tool Menu "Delete All Files" to delete all detected files.
