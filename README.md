@@ -1,7 +1,9 @@
 # Crypto Finder v3.9
 
 ## Updates
-> 10/5/2017 - Added new ransomwares' extensions and notes
+>- 10/5/2017
+>- Added new ransomwares' extensions and notes
+>- Kill the scan process when exit
 >
 > 22/3/2017
 > - Added Tool menu and moved "Check For Update" to it.
