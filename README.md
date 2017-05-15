@@ -1,4 +1,4 @@
-# Crypto Finder v3.9
+# Crypto Finder v3.10
 
 ![Alt text](https://raw.githubusercontent.com/RamiSyr/Crypto-Finder/master/CryptoFinder.png)
 
