@@ -46,8 +46,6 @@ It has ListView in his body, which will display the result of the scan after the
 - Double click on each item in the list will open the container folder.
 - Left Click will delete the file if we click YES on the confirmation message.
 
-After running “Crypto Finder” a text file will be created in the same script’s folder, this txt file calls: CryptoFinderSearchResult.txt, and it contains a list of all files that being found by line, or empty if nothing has found.
-
 The scan may take up to 5 minutes to scan 100GB of data on a normal quality computer.
 
 ## Ransomware list that can be detected by Crypto Finder:
