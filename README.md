@@ -1,6 +1,10 @@
 # Crypto Finder v3.9
 
 ## Updates
+> 15/5/2017
+>- Fix when the file contains "@" in the search.
+>- Added new ransomwares' extensions and notes.
+>
 > 10/5/2017
 >- Added new ransomwares' extensions and notes
 >- Kill the scan process when exit
