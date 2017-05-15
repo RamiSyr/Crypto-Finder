@@ -1,5 +1,7 @@
 # Crypto Finder v3.9
 
+![Alt text](https://raw.githubusercontent.com/RamiSyr/Crypto-Finder/master/CryptoFinder.png)
+
 ## Updates
 > 15/5/2017
 >- Fix when the file contains "@" in the search.
