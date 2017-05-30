@@ -2,7 +2,7 @@
 
 ![Alt text](https://raw.githubusercontent.com/RamiSyr/Crypto-Finder/master/CryptoFinder.png)
 
-## Updates
+<b> Updates </b>
 > 15/5/2017
 >- Fix when the file contains "@" in the search.
 >- Added new ransomwares' extensions and notes.
