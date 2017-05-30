@@ -42,7 +42,8 @@
 Script with interface, searches for hundreds of files that can be created by different kind of ransomware. actually, searches for 170+ different ransomwares and 300+ ransomware notes and extensions.
 
 The script runs as Admin by itself to insure that it will have access to search everywhere.
-It has ListView in his body, which will display the result of the scan after the scan done. With tow controls on each found file in this ListView:
+It has ListView in his body, which will display the result of the scan after the scan done. </br>
+Two controls on each found file in this ListView: </br>
 - Double click on each item in the list will open the container folder.
 - Left Click will delete the file if we click YES on the confirmation message.
 
