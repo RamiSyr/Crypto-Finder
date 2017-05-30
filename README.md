@@ -48,7 +48,7 @@ It has ListView in his body, which will display the result of the scan after the
 
 The scan may take up to 5 minutes to scan 100GB of data on a normal quality computer.
 
-After WannaCry released, few scanners started detecting CryptoFinder.exe as ransomware or a virus.
+After WannaCry released, few scanners started detecting CryptoFinder.exe as ransomware or a virus.<br />
 Here is the scan result of 30, May, 2017 https://www.metadefender.com/#!/results/file/ZTE3MDUzMEhKYklSdjRzWlpTSk1MUkROb1da/regular/analysis
 
 
