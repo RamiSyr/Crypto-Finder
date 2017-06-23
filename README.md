@@ -7,12 +7,11 @@
 <p> 22/6/2017 - Added new ransomwares' extensions and notes.</p>
 <p> 13/6/2017 - Added new ransomwares' extensions and notes. </p>
 <p> 15/5/2017 </p>
-<p> - Fix when the file contains "@" in the search.
->- Added new ransomwares' extensions and notes.
->
-> 10/5/2017
+- Fix when the file contains "@" in the search.
+- Added new ransomwares' extensions and notes.
+<p> 10/5/2017 
 >- Added new ransomwares' extensions and notes
->- Kill the scan process when exit
+>- Kill the scan process when exit </p>
 >
 > 22/3/2017
 > - Added Tool menu and moved "Check For Update" to it.
