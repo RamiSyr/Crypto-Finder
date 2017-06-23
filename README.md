@@ -6,9 +6,8 @@
 <summary> <b> Updates </b> </summary>
 <p> 22/6/2017 - Added new ransomwares' extensions and notes.</p>
 <p> 13/6/2017 - Added new ransomwares' extensions and notes. </p>
->
-> 15/5/2017
->- Fix when the file contains "@" in the search.
+<p> 15/5/2017 </p>
+<p> - Fix when the file contains "@" in the search.
 >- Added new ransomwares' extensions and notes.
 >
 > 10/5/2017
