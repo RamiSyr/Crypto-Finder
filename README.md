@@ -14,7 +14,7 @@
 - Added Tool menu and moved "Check For Update" to it.<br>
 - Added in Tool Menu "Delete All Files" to delete all detected files.<br>
 - Added the ammount of detected files in Status Bar</p>
-<p> 2/2/2017 
+<p> 2/2/2017 <br>
 - Added new ransomwares' extensions and notes.<br>
 - Currect the updating process to replace the old version of the program with the new version name.</p>
 <p> 27/12/2016 - Fixed bug when you right click on an empty area in the Result ListView </p>
@@ -24,7 +24,7 @@
 <p> 12/10/216  - Added new ransomwares' extensions </p>
 <p> 5/10/2016  - Added new ransomwares' extensions </p>
 <p> 12/09/2016 <br>
--	Fix bug when the path to the script folder contains spaces. It wasn’t create the CryptoFinderSearchResult.txt<br>
+-	Fix bug when the path to the script folder contains spaces. It wasn’t create the CryptoFinderSearchResult.txt <br>
 -	Added more than 75 kind of ransomwares extensions and notes, and over 150+ searches.<br>
 -	Added "Ransomware list" in a Menu </p>
 <p> 01/09/2016  - Released v1.0 </p>
