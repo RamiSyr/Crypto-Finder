@@ -10,21 +10,17 @@
 - Fix when the file contains "@" in the search.<br>
 - Added new ransomwares' extensions and notes.</p>
 <p> 10/5/2017 
->- Added new ransomwares' extensions and notes
->- Kill the scan process when exit </p>
->
-> 22/3/2017
-> - Added Tool menu and moved "Check For Update" to it.
-> - Added in Tool Menu "Delete All Files" to delete all detected files.
-> - Added the ammount of detected files in Status Bar
->
-> 2/2/2017 
->- Added new ransomwares' extensions and notes.
->- Currect the updating process to replace the old version of the program with the new version name.
->
-> 27/12/2016 - Fixed bug when you right click on an empty area in the Result ListView 
->
-> 31/10/2016 - Added new ransomwares' extensions and notes
+- Added new ransomwares' extensions and notes
+- Kill the scan process when exit </p>
+<p> 22/3/2017
+- Added Tool menu and moved "Check For Update" to it.
+- Added in Tool Menu "Delete All Files" to delete all detected files.
+- Added the ammount of detected files in Status Bar</p>
+<p> 2/2/2017 
+- Added new ransomwares' extensions and notes.
+- Currect the updating process to replace the old version of the program with the new version name.</p>
+<p> 27/12/2016 - Fixed bug when you right click on an empty area in the Result ListView </p>
+<p> 31/10/2016 - Added new ransomwares' extensions and notes</p>
 >
 >26/10/2016 - Added new ransomwares' extensions
 >
