@@ -2,7 +2,8 @@
 
 ![Alt text](https://raw.githubusercontent.com/RamiSyr/Crypto-Finder/master/CryptoFinder.png)
 
-**Updates**
+<details> 
+<summary> **Updates** </summary>
 > 22/6/2017 - Added new ransomwares' extensions and notes.
 >
 > 13/6/2017 - Added new ransomwares' extensions and notes.
@@ -42,7 +43,7 @@
 >-	Added "Ransomware list" in a Menu:
 >
 >01/09/2016  - Released v1.0
-
+</details>
 Script with interface, searches for hundreds of files that can be created by different kind of ransomware. actually, searches for 170+ different ransomwares and 300+ ransomware notes and extensions.
 
 The script runs as Admin by itself to insure that it will have access to search everywhere.
