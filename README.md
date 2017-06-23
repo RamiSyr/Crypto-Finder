@@ -19,23 +19,17 @@
 - Currect the updating process to replace the old version of the program with the new version name.</p>
 <p> 27/12/2016 - Fixed bug when you right click on an empty area in the Result ListView </p>
 <p> 31/10/2016 - Added new ransomwares' extensions and notes</p>
->
->26/10/2016 - Added new ransomwares' extensions
->
->18/10/2016 - Added "Check For Update" in Help Menu
->
->12/10/216  - Added new ransomwares' extensions
->
->5/10/2016  - Added new ransomwares' extensions
->
->12/09/2016
->-	Fix bug when the path to the script folder contains spaces. It wasn’t create the CryptoFinderSearchResult.txt
->-	Added more than 75 kind of ransomwares extensions and notes, and over 150+ searches.
->-	Added "Ransomware list" in a Menu:
->
->01/09/2016  - Released v1.0
+<p> 26/10/2016 - Added new ransomwares' extensions </p>
+<p> 18/10/2016 - Added "Check For Update" in Help Menu </p>
+<p> 12/10/216  - Added new ransomwares' extensions </p>
+<p> 5/10/2016  - Added new ransomwares' extensions </p>
+<p> 12/09/2016 <br>
+-	Fix bug when the path to the script folder contains spaces. It wasn’t create the CryptoFinderSearchResult.txt<br>
+-	Added more than 75 kind of ransomwares extensions and notes, and over 150+ searches.<br>
+-	Added "Ransomware list" in a Menu </p>
+<p> 01/09/2016  - Released v1.0 </p>
 </details>
-
+<br>
 ![Alt text](https://raw.githubusercontent.com/RamiSyr/Crypto-Finder/master/CryptoFinder.png)
 
 Script with interface, searches for hundreds of files that can be created by different kind of ransomware. actually, searches for 170+ different ransomwares and 300+ ransomware notes and extensions.
