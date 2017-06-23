@@ -3,9 +3,8 @@
 ![Alt text](https://raw.githubusercontent.com/RamiSyr/Crypto-Finder/master/CryptoFinder.png)
 
 <details> 
-<summary> <h1> Updates </h1> </summary>
+<summary> <h2> Updates </h2> </summary>
 <p> 22/6/2017 - Added new ransomwares' extensions and notes.</p>
->
 <p> 13/6/2017 - Added new ransomwares' extensions and notes. </p>
 >
 > 15/5/2017
