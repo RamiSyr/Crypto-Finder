@@ -36,14 +36,15 @@
 
 Script with interface, searches for hundreds of files that can be created by different kind of ransomware. actually, searches for 170+ different ransomwares and 300+ ransomware notes and extensions.
 
-The script runs as Admin by itself to insure that it will have access to search everywhere.
-It has ListView in his body, which will display the result of the scan after the scan done. </br>
-Two controls on each found file in this ListView: </br>
+The script runs as Admin by itself to insure that it will have access to search everywhere.<br>
+It has ListView in his body, which will display the result of the scan after the scan done. <br>
+Two controls on each found file in this ListView: <br>
 - Double click on each item in the list will open the container folder.
 - Left Click will delete the file if we click YES on the confirmation message.
 <br>
 The scan may take up to 5 minutes to scan 100GB of data on a normal quality computer.
 <br>
+
 ## Known fales detection: <br>
 After WannaCrypt0r released 5/2017, few scanners started detecting CryptoFinder.exe as ransomware or a virus.</br>
 Check the scans result on [metadefender](https://www.metadefender.com/#!/results/file/ZTE3MDUzMEhKYklSdjRzWlpTSk1MUkROb1da/regular/analysis) and [virustotal](https://www.virustotal.com/en/file/ef5ade9c5b21459684900cf3d73da53dd3fb50b7ab3ee6b95f3beb6cd48fa566/analysis/1496167810/)
