@@ -30,7 +30,9 @@
 <p> 01/09/2016  - Released v1.0 </p>
 </details>
 <br>
+
 ![Alt text](https://raw.githubusercontent.com/RamiSyr/Crypto-Finder/master/CryptoFinder.png)
+
 
 Script with interface, searches for hundreds of files that can be created by different kind of ransomware. actually, searches for 170+ different ransomwares and 300+ ransomware notes and extensions.
 
