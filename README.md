@@ -46,7 +46,7 @@ The scan may take up to 5 minutes to scan 100GB of data on a normal quality comp
 </br>
 </br>
 <b> Known fales detection: </b> </br>
-After WannaCry released, few scanners started detecting CryptoFinder.exe as ransomware or a virus.</br>
+After WannaCry released 5/2017, few scanners started detecting CryptoFinder.exe as ransomware or a virus.</br>
 Check the scans result on [metadefender](https://www.metadefender.com/#!/results/file/ZTE3MDUzMEhKYklSdjRzWlpTSk1MUkROb1da/regular/analysis) and [virustotal](https://www.virustotal.com/en/file/ef5ade9c5b21459684900cf3d73da53dd3fb50b7ab3ee6b95f3beb6cd48fa566/analysis/1496167810/)
 
 
