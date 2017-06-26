@@ -2,7 +2,7 @@
 
 <details> 
 <summary> <b> Updates </b> </summary>
-<p> 22/6/2017 - Added new ransomwares' extensions and notes.</p>
+<i><p> 22/6/2017 - Added new ransomwares' extensions and notes.</p>
 <p> 13/6/2017 - Added new ransomwares' extensions and notes. </p>
 <p> 15/5/2017 <br>
 - Fix when the file contains "@" in the search.<br>
@@ -27,14 +27,14 @@
 -	Fix bug when the path to the script folder contains spaces. It wasn’t create the CryptoFinderSearchResult.txt <br>
 -	Added more than 75 kind of ransomwares extensions and notes, and over 150+ searches.<br>
 -	Added "Ransomware list" in a Menu </p>
-<p> 01/09/2016  - Released v1.0 </p>
+<p> 01/09/2016  - Released v1.0 </p></i>
 </details>
 <br> 
 
 ![Alt text](https://raw.githubusercontent.com/RamiSyr/Crypto-Finder/master/CryptoFinder.png)
 
 
-Script with interface, searches for hundreds of files that can be created by different kind of ransomware. actually, searches for 170+ different ransomwares and 300+ ransomware notes and extensions.
+Script with interface, searches for hundreds of files that can be created by different kind of ransomware. Actually, searches for 170+ different ransomwares and 300+ ransomware notes and extensions on all internal and external drives.
 
 The script runs as Admin by itself to insure that it will have access to search everywhere.<br>
 It has ListView in his body, which will display the result of the scan after the scan done. <br>
