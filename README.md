@@ -1,8 +1,9 @@
-<h1> Crypto Finder v3.12 </h1>
+<h1> Crypto Finder </h1>
 
 <details> 
 <summary> <b> Updates </b> </summary>
-<i><p> 22/6/2017 - Added new ransomwares' notes and file extensions.</p>
+<i><p> Last version: v3.12 <br>
+22/6/2017 - Added new ransomwares' notes and file extensions.</p>
 <p> 13/6/2017 - Added new ransomwares' notes and file extensions.</p>
 <p> 15/5/2017 <br>
 - Fix when the file contains "@" in the search.<br>
