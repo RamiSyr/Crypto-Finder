@@ -1,4 +1,4 @@
-<h1> Crypto Finder </h1>
+<h1> Crypto Finder v3.12 </h1>
 
 <details> 
 <summary> <b> Updates </b> </summary>
