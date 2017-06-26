@@ -2,27 +2,27 @@
 
 <details> 
 <summary> <b> Updates </b> </summary>
-<i><p> 22/6/2017 - Added new ransomwares' extensions and notes.</p>
-<p> 13/6/2017 - Added new ransomwares' extensions and notes. </p>
+<i><p> 22/6/2017 - Added new ransomwares' notes and file extensions.</p>
+<p> 13/6/2017 - Added new ransomwares' notes and file extensions.</p>
 <p> 15/5/2017 <br>
 - Fix when the file contains "@" in the search.<br>
-- Added new ransomwares' extensions and notes.</p>
+- Added new ransomwares' notes and file extensions.</p>
 <p> 10/5/2017 <br>
-- Added new ransomwares' extensions and notes<br>
+- Added new ransomwares' notes and file extensions.<br>
 - Kill the scan process when exit </p>
 <p> 22/3/2017<br>
 - Added Tool menu and moved "Check For Update" to it.<br>
 - Added in Tool Menu "Delete All Files" to delete all detected files.<br>
 - Added the ammount of detected files in Status Bar</p>
 <p> 2/2/2017 <br>
-- Added new ransomwares' extensions and notes.<br>
+- Added new ransomwares' notes and file extensions.<br>
 - Currect the updating process to replace the old version of the program with the new version name.</p>
 <p> 27/12/2016 - Fixed bug when you right click on an empty area in the Result ListView </p>
-<p> 31/10/2016 - Added new ransomwares' extensions and notes</p>
-<p> 26/10/2016 - Added new ransomwares' extensions </p>
+<p> 31/10/2016 - Added new ransomwares' notes and file extensions.</p>
+<p> 26/10/2016 - Added new ransomwares' notes and file extensions. </p>
 <p> 18/10/2016 - Added "Check For Update" in Help Menu </p>
-<p> 12/10/216  - Added new ransomwares' extensions </p>
-<p> 5/10/2016  - Added new ransomwares' extensions </p>
+<p> 12/10/216  - Added new ransomwares' notes and file extensions. </p>
+<p> 5/10/2016  - Added new ransomwares' notes and file extensions. </p>
 <p> 12/09/2016 <br>
 -	Fix bug when the path to the script folder contains spaces. It wasn’t create the CryptoFinderSearchResult.txt <br>
 -	Added more than 75 kind of ransomwares extensions and notes, and over 150+ searches.<br>
@@ -34,7 +34,7 @@
 ![Alt text](https://raw.githubusercontent.com/RamiSyr/Crypto-Finder/master/CryptoFinder.png)
 
 
-Script with interface, searches for hundreds of files that can be created by different kind of ransomware. Actually, searches for 170+ different ransomwares and 300+ ransomware notes and extensions on all internal and external drives.
+Script with interface, searches for hundreds of files that can be created by different kind of ransomware. Actually, searches for 170+ different ransomwares and their 300+ notes and encrypted file extensions on all internal and external drives.
 
 The script runs as Admin by itself to insure that it will have access to search everywhere.<br>
 It has ListView in his body, which will display the result of the scan after the scan done. <br>
