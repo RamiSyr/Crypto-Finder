@@ -2,7 +2,7 @@
 
 <details> 
 <summary> <b> Updates </b> </summary>
-<i><p> Last version: v3.12 <br>
+<i><p> <b> Last version: v3.12 </b><br>
 22/6/2017 - Added new ransomwares' notes and file extensions.</p>
 <p> 13/6/2017 - Added new ransomwares' notes and file extensions.</p>
 <p> 15/5/2017 <br>
