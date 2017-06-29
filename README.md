@@ -2,8 +2,9 @@
 
 <details> 
 <summary> <b> Updates </b> </summary>
-<i><p> <b> Last version: v3.12 </b><br>
-22/6/2017 - Added new ransomwares' notes and file extensions.</p>
+<i><p> <b> Last version: v3.13 </b><br>
+29/6/2017 - Cleaned up the script and the searches. The search now sould be 20% faster.<br>
+<p> 22/6/2017 - Added new ransomwares' notes and file extensions.</p>
 <p> 13/6/2017 - Added new ransomwares' notes and file extensions.</p>
 <p> 15/5/2017 <br>
 - Fix when the file contains "@" in the search.<br>
@@ -14,7 +15,7 @@
 <p> 22/3/2017<br>
 - Added Tool menu and moved "Check For Update" to it.<br>
 - Added in Tool Menu "Delete All Files" to delete all detected files.<br>
-- Added the ammount of detected files in Status Bar</p>
+- Added Status Bar that contains the ammount of detected files </p>
 <p> 2/2/2017 <br>
 - Added new ransomwares' notes and file extensions.<br>
 - Currect the updating process to replace the old version of the program with the new version name.</p>
