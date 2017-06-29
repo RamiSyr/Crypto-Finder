@@ -3,7 +3,9 @@
 <details> 
 <summary> <b> Updates </b> </summary>
 <i><p> <b> Last version: v3.13 </b><br>
-29/6/2017 - Cleaned up the searches. The search now should be 20% faster.<br>
+29/6/2017<br>
+- Cleaned up the searches. The search now should be 20% faster.<br>
+- Added new ransomwares' notes and file extensions.
 <p> 22/6/2017 - Added new ransomwares' notes and file extensions.</p>
 <p> 13/6/2017 - Added new ransomwares' notes and file extensions.</p>
 <p> 15/5/2017 <br>
