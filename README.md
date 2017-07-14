@@ -39,7 +39,7 @@
 ![Alt text](https://raw.githubusercontent.com/RamiSyr/Crypto-Finder/master/CryptoFinder.png)
 
 
-Script with interface, searches for hundreds of files that can be created by different kind of ransomware. Actually, searches for 170+ different ransomwares and their 300+ notes and encrypted file extensions on all internal and external drives.
+Script with interface, searches  on all internal and external drives for hundreds of files that can be created by different kind of ransomware. Actually, searches for 200+ different ransomwares and their 300+ notes and encrypted file extensions.
 
 The script runs as Admin by itself to insure that it will have access to search everywhere.<br>
 It has ListView in his body, which will display the result of the scan after the scan done. <br>
