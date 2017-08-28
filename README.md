@@ -3,7 +3,7 @@
 <details> 
 <summary> <b> Updates </b> </summary>
 <i><p><b> Last version: v4.16 </b><br>
-<p> 28/08/2017 <br>
+<p><b> 28/08/2017 </b><br>
 - Added "Select Drives to scan" after you hit "SCAN" button<br>
 - Only Administrator can run the program now. <br>
 - Added new ransomwares' notes and file extensions. </p>
