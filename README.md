@@ -9,7 +9,7 @@
 - Added new ransomwares' notes and file extensions. </p>
 <p> 31/07/2017 - Added new ransomwares' notes and file extensions. </p>
 <p> 14/07/2017 - Added new ransomwares' notes and file extensions. </p>
-<p> 29/6/2017 <br>
+<p><b> 29/6/2017 </b><br>
 - Cleaned up the searches. The search now should be 20% faster.<br>
 - Added new ransomwares' notes and file extensions. </p>
 <p> 22/6/2017 - Added new ransomwares' notes and file extensions.</p>
@@ -20,7 +20,7 @@
 <p> 10/5/2017 <br>
 - Added new ransomwares' notes and file extensions.<br>
 - Kill the scan process when exit </p>
-<p> 22/3/2017<br>
+<p><b> 22/3/2017 </b><br>
 - Added Tool menu and moved "Check For Update" to it.<br>
 - Added in Tool Menu "Delete All Files" to delete all detected files.<br>
 - Added Status Bar that contains the ammount of detected files </p>
@@ -33,7 +33,7 @@
 <p> 18/10/2016 - Added "Check For Update" in Help Menu </p>
 <p> 12/10/216  - Added new ransomwares' notes and file extensions. </p>
 <p> 5/10/2016  - Added new ransomwares' notes and file extensions. </p>
-<p> 12/09/2016 <br>
+<p><b> 12/09/2016 </b><br>
 -	Fix bug when the path to the script folder contains spaces. It wasn’t create the CryptoFinderSearchResult.txt <br>
 -	Added more than 75 kind of ransomwares extensions and notes, and over 150+ searches.<br>
 -	Added "Ransomware list" in a Menu </p>
