@@ -2,7 +2,10 @@
 
 <details> 
 <summary> <b> Updates </b> </summary>
-<i><p><b> Last version: v3.15 </b><br>
+<i><p><b> Last version: v4.16 </b><br>
+<p> 28/08/2017 <br>
+- Added "Select Drives to scan" after you hit "SCAN" button<br>
+- Added new ransomwares' notes and file extensions. </p>
 <p> 31/07/2017 - Added new ransomwares' notes and file extensions. </p>
 <p> 14/07/2017 - Added new ransomwares' notes and file extensions. </p>
 <p> 29/6/2017 <br>
