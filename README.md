@@ -30,7 +30,7 @@
 <p> 27/12/2016 - Fixed bug when you right click on an empty area in the Result ListView </p>
 <p> 31/10/2016 - Added new ransomwares' notes and file extensions.</p>
 <p> 26/10/2016 - Added new ransomwares' notes and file extensions. </p>
-<p> 18/10/2016 - Added "Check For Update" in Help Menu </p>
+<p><b> 18/10/2016</b> - Added "Check For Update" in Help Menu </p>
 <p> 12/10/216  - Added new ransomwares' notes and file extensions. </p>
 <p> 5/10/2016  - Added new ransomwares' notes and file extensions. </p>
 <p><b> 12/09/2016 </b><br>
