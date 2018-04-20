@@ -2,7 +2,7 @@
 
 <details> 
 <summary> <b> Updates </b> </summary>
-<i><p><b> Last version: v4.18 </b><br>
+<i><p><b> Last version: v4.19 </b><br>
 <p>1/11/2017 <br>  
 - Changed few ransom notes names for wider search <br>
 - Added new ransomwares notes and file extensions </p>
